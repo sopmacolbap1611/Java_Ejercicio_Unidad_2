@@ -20,6 +20,8 @@ public class Ejercicio_Unidad_2 {
 
         int age = sc.nextInt();
 
+        sc.nextLine();
+
         System.out.println("Podrías decirme cuál es tu hobbie: ");
 
         String hobbie = sc.nextLine();
